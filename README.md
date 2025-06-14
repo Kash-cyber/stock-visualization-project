@@ -32,8 +32,7 @@ stock-visualization-project/
 ---
 
 ## 🖼 Sample Output
-
-> *(Add this after you upload plot images)*  
+ 
 ![Tesla Stock Plot](screenshots/tesla_plot.png)
 
 ---
@@ -45,17 +44,6 @@ This project was originally inspired by a lab in the [IBM Data Science Professio
 ---
 
 ## 🛠 How to Run It
-
-1. Clone the repo:
-   ```bash
-   git clone https://github.com/Kash-cyber/stock-visualization-project.git
-   cd stock-visualization-project
-
-
-## 🧠 Credit
-Inspired by a lab from the IBM Data Science Professional Certificate on Coursera. This notebook was cleaned and enhanced for public sharing.
-
-## ✅ Getting Started
 
 Clone the repo and install the requirements:
 ```bash
@@ -69,10 +57,14 @@ jupyter notebook stock_analysis.ipynb
 
 ---
 
-### ✅ What You Should Do:
+[![View Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue?logo=jupyter&style=for-the-badge)](https://nbviewer.org/github/Kash-cyber/stock-visualization-project/blob/main/stock_analysis.ipynb)
 
-- Replace `YOUR-LINKEDIN` with your actual LinkedIn if you want to include it.
-- Upload your plot images to the `screenshots/` folder and reference them in the README.
-- Push this finalized README to your GitHub repo.
+## 🔗 Let's Connect!
 
-Let me know if you want help publishing this as a GitHub Pages portfolio or converting it into a blog!
+Hey there! 👋  
+Thanks for checking out my project. I'd love to connect and chat about data science, projects, or anything tech!
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/kashaf-malik-738689304)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Kash-cyber)  
+✉️ **Email:** [kashafqaiser1707@gmail.com](mailto:kashafqaiser1707@gmail.com)
+
