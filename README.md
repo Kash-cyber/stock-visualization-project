@@ -34,6 +34,7 @@ stock-visualization-project/
 ## 🖼 Sample Output
  
 ![Tesla Stock Plot](screenshots/tesla_plot.png)
+![Gamestop Stock Plot](screenshots/gamestop_plot.png)
 
 ---
 
@@ -56,7 +57,7 @@ jupyter notebook stock_analysis.ipynb
 ```
 
 ---
-
+### View notebook live in jupyter here:
 [![View Notebook](https://img.shields.io/badge/Open-Jupyter%20Notebook-blue?logo=jupyter&style=for-the-badge)](https://nbviewer.org/github/Kash-cyber/stock-visualization-project/blob/main/stock_analysis.ipynb)
 
 ## 🔗 Let's Connect!
